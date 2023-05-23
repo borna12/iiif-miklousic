@@ -1,0 +1,23 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 1, 2 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 4222,
+    "height" : 7333
+  }, {
+    "width" : 6334,
+    "height" : 11000
+  }, {
+    "width" : 12668,
+    "height" : 22000
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 12668,
+  "@id" : "https://retrogram.jezik.hr/gramatike/miklousic/iiif/178",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 22000
+}
