@@ -17,7 +17,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 12822,
-  "@id" : "https://retrogram.jezik.hr/gramatike/miklousic/iiif/108",
+  "@id" : "https://borna12.github.io/iiif-miklousic/iiif/108",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 22000
 }
